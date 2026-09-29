@@ -4,7 +4,7 @@ A passionate MERN STACK || WEB DEVELOPER || Admin from India
 
 Email Me 👉 ✉️ manishpal9696088689@gmail.com For Collaboration/Project or Anything Else. 😃 🙂
 * 🌱 I'm currently learning: MERN
-* 👯 I'm looking to collaborate on
+* 👯 I'm looking to collaborate 
 * 🤔 I'm looking for help with: School Management System (Project)
 * 💬 Ask me about: Collaboration, Tech Support
 * ⚡ Fun fact: I Love Tech and Tech Love Me
